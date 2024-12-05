@@ -24,8 +24,8 @@ I'm a passionate **Full Stack Developer** with expertise in ** C++, JavaScript, 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjeetgupta&show_icons=true&hide=issues&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjeetgupta&layout=compact&hide_border=true)
 
 ---
 

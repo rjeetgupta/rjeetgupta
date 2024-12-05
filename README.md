@@ -1,6 +1,6 @@
-# 🌟 Hello, I'm Ranjeet! 👋
+#  Hello, I'm Ranjeet!
 
-![Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile!)
+
 
 ---
 
@@ -30,14 +30,26 @@ I'm also a **DSA Enthusiast**, dedicated to solving complex problems and improvi
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=black&style=for-the-badge" />
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -50,27 +62,10 @@ I'm also a **DSA Enthusiast**, dedicated to solving complex problems and improvi
 
 ---
 
-## 🏆 Achievements
-- 🏅 **Won [Insert Hackathon Name/Competition Name]**  
-  _Brief description of the achievement._
-- 🥇 **Top Contributor on [Platform Name]**  
-  _Highlight open-source contributions or accolades._
-- 🌟 **Published [Research Paper/Article]**  
-  _Mention any publication if applicable._
-
----
-
-## 📂 Featured Projects
-Here are some of my favorite projects that I’ve worked on:
-
-- 🌐 **[Portfolio Website](https://portfolio-react-ranjeetgupta.vercel.app/)**  
-  A sleek personal portfolio showcasing my work and skills, built using **React** and **Tailwind CSS**.
-
-- 🔗 **[Project Name](https://github.com/rjeetgupta/project-repo)**  
-  _Brief description about what this project achieves, the technologies used, and its impact._
-
-- 🚀 **[Another Cool Project](https://github.com/rjeetgupta/another-project-repo)**  
-  _Highlight its significance or what makes it unique._
+## 📅 GitHub Contribution Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjeetgupta&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
@@ -91,19 +86,3 @@ Here are some of my favorite projects that I’ve worked on:
 
 ### 🎯 Fun Fact
 > "Did you know? The first computer bug was a moth stuck in a relay of the Harvard Mark II computer in 1947!"
-
----
-
-### Notes:
-1. **Dark Mode Design**: 
-   - Used a **radical theme** for stats and badges.
-   - Maintained minimal yet visually appealing layouts.
-
-2. **Customization Options**:
-   - Replace placeholders like "[Achievement 1]" and "Project Name" with actual data.
-   - Update the banner image with something relevant and attractive.
-
-3. **Styling Adjustments**:
-   - Used centered badges and visuals for a polished layout.
-
-Let me know if you want further enhancements!

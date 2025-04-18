@@ -1,21 +1,14 @@
-#  Hello, I'm Ranjeet!
+#  Hello, I'm Ranjeet! 👋
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm a passionate **Full Stack Developer** skilled in:
-
-**Languages**:  
-- `C++`, `JavaScript`, `Java`, `Python`
-
-**Frontend**:  
-- `React`, `Tailwind CSS`
-
-**Backend**:  
-- `Node.js`, `Express.js`, `MongoDB`
+Hi there! I'm a passionate **Full Stack Developer**.
 
 I'm also a **DSA Enthusiast**, dedicated to solving complex problems and improving my algorithms.
 
@@ -54,18 +47,42 @@ I'm also a **DSA Enthusiast**, dedicated to solving complex problems and improvi
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjeetgupta&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjeetgupta&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-## 📅 GitHub Contribution Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjeetgupta&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rjeetgupta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+  
+  
+  ### ⚡ Streak Stats
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjeetgupta&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  ### 📊 Detailed Stats
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rjeetgupta&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjeetgupta&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjeetgupta&theme=radical" alt="Profile Details" width="100%"/>
+      </td>
+    </tr>
+  </table>
+
+    ### 📈 Activity Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjeetgupta&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="95%"/>
+  
+  ### 🕰️ Weekly Development Breakdown
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rjeetgupta&theme=radical&hide_border=true&layout=compact" alt="Weekly Development Breakdown" />
+  
+</div>
 
 ---
 
@@ -80,9 +97,9 @@ I'm also a **DSA Enthusiast**, dedicated to solving complex problems and improvi
   <a href="https://x.com/rjeetgupta">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
+
 </p>
 
 ---
 
-### 🎯 Fun Fact
-> "Did you know? The first computer bug was a moth stuck in a relay of the Harvard Mark II computer in 1947!"
+
